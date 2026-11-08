@@ -29,3 +29,5 @@ branch 'main' set up to track 'origin/main'.
 PS D:\TriNetra> 
 
 //Day1
+changed ui a little
+added about page
